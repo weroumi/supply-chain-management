@@ -1,0 +1,20 @@
+div.tooltip {
+  position: absolute;
+  padding: 7px;
+  font-size: 0.8em;
+  pointer-events: none;
+  background: rgba(255, 255, 255, 0.88);
+  color: #084081;
+  border-radius: 2px;
+  box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+  white-space: pre-line;
+}
+
+.background {
+  fill: transparent;
+  pointer-evens: all;
+}
+
+.world {
+  transform-origin: center;
+}

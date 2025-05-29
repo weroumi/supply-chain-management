@@ -1,0 +1,14 @@
+/.venv/*
+**/.DS_Store
+/.vs
+venv
+src/res/mock
+.idea
+src/res/cache
+.git.old
+
+src/res/datasets/FinalDALiteratureWithAllColumns.xlsx
+src/res/datasets/PreProcessedAbstracts.xlsx
+
+
+__pycache__

@@ -1,0 +1,255 @@
+
+/* The side navigation menu */
+.sidenav {
+  overflow: hidden;
+  height: 100%; /* 100% Full-height */
+  width: auto; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  color: #000000;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  background: rgba(0, 0, 0, 0.2); /* Semi-transparent background for the frosted effect */
+  backdrop-filter: blur(10px); /* Applies the blur effect */
+  -webkit-backdrop-filter: blur(10px);
+  border-right: black solid 1px;
+}
+
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav form label {
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: #ffffff;
+  background: rgba(1, 0, 2, 0.5);
+}
+
+::selection {
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#timeline_box {
+  display: flex;
+  align-items: center;
+}
+
+.navbar {
+  /*color: black;*/
+  /*padding: 10px;*/
+  font-weight: bold;
+  font-family: "Inconsolata", monospace;
+  font-size: large;
+}
+
+.my-title {
+  font-family: "Inconsolata", monospace;
+  color: black;
+  font-size: large;
+}
+
+.my-button {
+  background-color: black;
+}
+
+/* CSS */
+.button-67 {
+  align-items: center;
+  background: rgba(0, 101, 24, 0.99);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: -10px -10px 30px 0 #fff, 10px 10px 30px 0 rgba(1, 0, 2, 0.09);
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  font-family: "Inconsolata", monospace;
+  font-size: 1rem;
+  justify-content: center;
+  line-height: 1.5rem;
+  padding: 2px 5px;
+  position: relative;
+  text-align: left;
+  transition: .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: pre;
+  width: max-content;
+  word-break: normal;
+  word-spacing: normal;
+}
+
+.button-67:hover {
+  color: white;
+  background: rgba(56, 131, 74, 0.99);
+  box-shadow: -15px -15px 30px 0 #fff, 15px 15px 30px 0 rgba(0, 0, 0, 0.09);
+}
+
+@media (min-width: 768px) {
+  .button-67 {
+    padding: 2px 15px;
+  }
+}
+
+#play_button {
+  background-color: black;
+}
+
+#play_button:hover {
+  background-color: rgba(0, 0, 0, 0.91);
+}
+
+.checkbox-wrapper-61 input[type="checkbox"] {
+  visibility: hidden;
+  display: none;
+}
+
+.checkbox-wrapper-61 *,
+.checkbox-wrapper-61 ::after,
+.checkbox-wrapper-61 ::before {
+  box-sizing: border-box;
+}
+
+.checkbox-wrapper-61 span, .checkbox-wrapper-62 span {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.62);
+}
+
+.checkbox-wrapper-61 {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+.checkbox-wrapper-61 .check {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  opacity: 0;
+}
+
+.checkbox-wrapper-61 .label svg {
+  vertical-align: middle;
+}
+
+.checkbox-wrapper-61 .path1 {
+  stroke-dasharray: 400;
+  stroke-dashoffset: 400;
+  transition: .5s stroke-dashoffset;
+  opacity: 0;
+}
+
+.checkbox-wrapper-61 .check:checked + label svg g path {
+  stroke-dashoffset: 0;
+  opacity: 1;
+}
+
+
+.checkbox-wrapper-62 input[type="checkbox"] {
+  visibility: hidden;
+  display: none;
+}
+
+.checkbox-wrapper-62 *,
+.checkbox-wrapper-62 ::after,
+.checkbox-wrapper-62 ::before {
+  box-sizing: border-box;
+}
+
+.checkbox-wrapper-62 {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+.checkbox-wrapper-62 .check {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  opacity: 0;
+}
+
+.checkbox-wrapper-62 .label svg {
+  vertical-align: middle;
+}
+
+.checkbox-wrapper-62 .path1 {
+  stroke-dasharray: 400;
+  stroke-dashoffset: 400;
+  transition: .5s all;
+}
+
+.checkbox-wrapper-62 .check:checked + label svg g path {
+  stroke-dashoffset: 0;
+}
+
+.card-chart {
+  border: none;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.tariff-card-chart {
+  border: none;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#layers_div{
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+#liveAlertPlaceholder {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#geo-chart {
+  display: flex;
+}
+
+#map-svg {
+  margin: auto;
+}

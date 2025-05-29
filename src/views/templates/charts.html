@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}supply navigator{% endblock %}
+
+{% block content %}
+  <div class="container d-flex justify-content-center flex-column">
+    <div class="row mt-4 mb-1">
+      <div class="col-7 text-center">
+        <h5 id="mapTitle"></h5>
+      </div>
+      <div class="col text-center">
+        <h5>  </h5>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-7">
+        {% include 'charts/choropleth-map.html' %}
+      </div>
+      <div class="col text-center">
+        {% include 'charts/tariffs_bar_chart.html' %}
+      </div>
+    </div>
+  </div>
+{% endblock %}

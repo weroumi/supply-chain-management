@@ -1,0 +1,250 @@
+name;alpha-2;alpha-3;country-code;iso_3166-2;region;sub-region;intermediate-region;region-code;sub-region-code;intermediate-region-code;color
+Afghanistan;AF;AFG;4;ISO 3166-2:AF;Asia;Southern Asia;;142.0;34.0;;#0D2F46
+Åland Islands;AX;ALA;248;ISO 3166-2:AX;Europe;Northern Europe;;150.0;154.0;;#8A4304
+Albania;AL;ALB;8;ISO 3166-2:AL;Europe;Southern Europe;;150.0;39.0;;#8F4504
+Algeria;DZ;DZA;12;ISO 3166-2:DZ;Africa;Northern Africa;;2.0;15.0;;#113B11
+American Samoa;AS;ASM;16;ISO 3166-2:AS;Oceania;Polynesia;;9.0;61.0;;#691515
+Andorra;AD;AND;20;ISO 3166-2:AD;Europe;Southern Europe;;150.0;39.0;;#944704
+Angola;AO;AGO;24;ISO 3166-2:AO;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#123E12
+Anguilla;AI;AIA;660;ISO 3166-2:AI;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#543471
+Antarctica;AQ;ATA;10;ISO 3166-2:AQ;;;;;;;nan
+Antigua and Barbuda;AG;ATG;28;ISO 3166-2:AG;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#563574
+Argentina;AR;ARG;32;ISO 3166-2:AR;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#583777
+Armenia;AM;ARM;51;ISO 3166-2:AM;Asia;Western Asia;;142.0;145.0;;#0E324A
+Aruba;AW;ABW;533;ISO 3166-2:AW;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#5B387A
+Australia;AU;AUS;36;ISO 3166-2:AU;Oceania;Australia and New Zealand;;9.0;53.0;;#701617
+Austria;AT;AUT;40;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;#994A04
+Azerbaijan;AZ;AZE;31;ISO 3166-2:AZ;Asia;Western Asia;;142.0;145.0;;#0F354F
+Bahamas;BS;BHS;44;ISO 3166-2:BS;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#5D397D
+Bahrain;BH;BHR;48;ISO 3166-2:BH;Asia;Western Asia;;142.0;145.0;;#103753
+Bangladesh;BD;BGD;50;ISO 3166-2:BD;Asia;Southern Asia;;142.0;34.0;;#103A57
+Barbados;BB;BRB;52;ISO 3166-2:BB;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#5F3B80
+Belarus;BY;BLR;112;ISO 3166-2:BY;Europe;Eastern Europe;;150.0;151.0;;#9E4C04
+Belgium;BE;BEL;56;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;#A34E04
+Belize;BZ;BLZ;84;ISO 3166-2:BZ;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#613C84
+Benin;BJ;BEN;204;ISO 3166-2:BJ;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#134213
+Bermuda;BM;BMU;60;ISO 3166-2:BM;Americas;Northern America;;19.0;21.0;;#643D87
+Bhutan;BT;BTN;64;ISO 3166-2:BT;Asia;Southern Asia;;142.0;34.0;;#113D5B
+Bolivia, Plurinational State of;BO;BOL;68;ISO 3166-2:BO;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#663E8A
+Bonaire, Sint Eustatius and Saba;BQ;BES;535;ISO 3166-2:BQ;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#68408D
+Bosnia and Herzegovina;BA;BIH;70;ISO 3166-2:BA;Europe;Southern Europe;;150.0;39.0;;#A85104
+Botswana;BW;BWA;72;ISO 3166-2:BW;Africa;Sub-Saharan Africa;Southern Africa;2.0;202.0;18.0;#144514
+Bouvet Island;BV;BVT;74;ISO 3166-2:BV;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#6A4190
+Brazil;BR;BRA;76;ISO 3166-2:BR;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#6D4293
+British Indian Ocean Territory;IO;IOT;86;ISO 3166-2:IO;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#154815
+Brunei Darussalam;BN;BRN;96;ISO 3166-2:BN;Asia;South-eastern Asia;;142.0;35.0;;#124060
+Bulgaria;BG;BGR;100;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;#AD5304
+Burkina Faso;BF;BFA;854;ISO 3166-2:BF;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#164C16
+Burundi;BI;BDI;108;ISO 3166-2:BI;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#174F17
+Cabo Verde;CV;CPV;132;ISO 3166-2:CV;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#185218
+Cambodia;KH;KHM;116;ISO 3166-2:KH;Asia;South-eastern Asia;;142.0;35.0;;#124364
+Cameroon;CM;CMR;120;ISO 3166-2:CM;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#195619
+Canada;CA;CAN;124;ISO 3166-2:CA;Americas;Northern America;;19.0;21.0;;#6F4497
+Cayman Islands;KY;CYM;136;ISO 3166-2:KY;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#71459A
+Central African Republic;CF;CAF;140;ISO 3166-2:CF;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#1A591A
+Chad;TD;TCD;148;ISO 3166-2:TD;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#1B5C1B
+Chile;CL;CHL;152;ISO 3166-2:CL;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#74469D
+China;CN;CHN;156;ISO 3166-2:CN;Asia;Eastern Asia;;142.0;30.0;;#134568
+Christmas Island;CX;CXR;162;ISO 3166-2:CX;Oceania;Australia and New Zealand;;9.0;53.0;;#771818
+Cocos (Keeling) Islands;CC;CCK;166;ISO 3166-2:CC;Oceania;Australia and New Zealand;;9.0;53.0;;#7F191A
+Colombia;CO;COL;170;ISO 3166-2:CO;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#7647A0
+Comoros;KM;COM;174;ISO 3166-2:KM;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#1C601C
+Congo;CG;COG;178;ISO 3166-2:CG;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#1C631C
+Congo, Democratic Republic of the;CD;COD;180;ISO 3166-2:CD;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#1D661D
+Cook Islands;CK;COK;184;ISO 3166-2:CK;Oceania;Polynesia;;9.0;61.0;;#861A1B
+Costa Rica;CR;CRI;188;ISO 3166-2:CR;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#7849A3
+Côte d'Ivoire;CI;CIV;384;ISO 3166-2:CI;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#1E6A1E
+Croatia;HR;HRV;191;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;#B25504
+Cuba;CU;CUB;192;ISO 3166-2:CU;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#7A4AA7
+Curaçao;CW;CUW;531;ISO 3166-2:CW;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#7D4BAA
+Cyprus;CY;CYP;196;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;#14486D
+Czechia;CZ;CZE;203;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;#B75804
+Denmark;DK;DNK;208;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;#BC5A04
+Djibouti;DJ;DJI;262;ISO 3166-2:DJ;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#1F6D1F
+Dominica;DM;DMA;212;ISO 3166-2:DM;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#7F4DAD
+Dominican Republic;DO;DOM;214;ISO 3166-2:DO;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#814EB0
+Ecuador;EC;ECU;218;ISO 3166-2:EC;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#8350B2
+Egypt;EG;EGY;818;ISO 3166-2:EG;Africa;Northern Africa;;2.0;15.0;;#207020
+El Salvador;SV;SLV;222;ISO 3166-2:SV;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#8653B3
+Equatorial Guinea;GQ;GNQ;226;ISO 3166-2:GQ;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#217421
+Eritrea;ER;ERI;232;ISO 3166-2:ER;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#227722
+Estonia;EE;EST;233;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;#C15C04
+Eswatini;SZ;SWZ;748;ISO 3166-2:SZ;Africa;Sub-Saharan Africa;Southern Africa;2.0;202.0;18.0;#237B23
+Ethiopia;ET;ETH;231;ISO 3166-2:ET;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#247E24
+Falkland Islands (Malvinas);FK;FLK;238;ISO 3166-2:FK;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#8856B5
+Faroe Islands;FO;FRO;234;ISO 3166-2:FO;Europe;Northern Europe;;150.0;154.0;;#C65F04
+Fiji;FJ;FJI;242;ISO 3166-2:FJ;Oceania;Melanesia;;9.0;54.0;;#8E1C1C
+Finland;FI;FIN;246;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;#CB6104
+France;FR;FRA;250;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;#D06304
+French Guiana;GF;GUF;254;ISO 3166-2:GF;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#8A59B6
+French Polynesia;PF;PYF;258;ISO 3166-2:PF;Oceania;Polynesia;;9.0;61.0;;#951D1D
+French Southern Territories;TF;ATF;260;ISO 3166-2:TF;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#248124
+Gabon;GA;GAB;266;ISO 3166-2:GA;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#258525
+Gambia;GM;GMB;270;ISO 3166-2:GM;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#268826
+Georgia;GE;GEO;268;ISO 3166-2:GE;Asia;Western Asia;;142.0;145.0;;#154B71
+Germany;DE;DEU;276;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;#D56604
+Ghana;GH;GHA;288;ISO 3166-2:GH;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#278C27
+Gibraltar;GI;GIB;292;ISO 3166-2:GI;Europe;Southern Europe;;150.0;39.0;;#DA6804
+Greece;GR;GRC;300;ISO 3166-2:GR;Europe;Southern Europe;;150.0;39.0;;#DF6A04
+Greenland;GL;GRL;304;ISO 3166-2:GL;Americas;Northern America;;19.0;21.0;;#8C5CB8
+Grenada;GD;GRD;308;ISO 3166-2:GD;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#8E5FB9
+Guadeloupe;GP;GLP;312;ISO 3166-2:GP;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#9162BB
+Guam;GU;GUM;316;ISO 3166-2:GU;Oceania;Micronesia;;9.0;57.0;;#9D1E1F
+Guatemala;GT;GTM;320;ISO 3166-2:GT;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#9365BC
+Guernsey;GG;GGY;831;ISO 3166-2:GG;Europe;Northern Europe;;150.0;154.0;;#E46D04
+Guinea;GN;GIN;324;ISO 3166-2:GN;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#288F28
+Guinea-Bissau;GW;GNB;624;ISO 3166-2:GW;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#299229
+Guyana;GY;GUY;328;ISO 3166-2:GY;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#9569BE
+Haiti;HT;HTI;332;ISO 3166-2:HT;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#976CBF
+Heard Island and McDonald Islands;HM;HMD;334;ISO 3166-2:HM;Oceania;Australia and New Zealand;;9.0;53.0;;#A51F20
+Holy See;VA;VAT;336;ISO 3166-2:VA;Europe;Southern Europe;;150.0;39.0;;#E96F04
+Honduras;HN;HND;340;ISO 3166-2:HN;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#9A6FC1
+Hong Kong;HK;HKG;344;ISO 3166-2:HK;Asia;Eastern Asia;;142.0;30.0;;#154E75
+Hungary;HU;HUN;348;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;#EE7104
+Iceland;IS;ISL;352;ISO 3166-2:IS;Europe;Northern Europe;;150.0;154.0;;#F37404
+India;IN;IND;356;ISO 3166-2:IN;Asia;Southern Asia;;142.0;34.0;;#165179
+Indonesia;ID;IDN;360;ISO 3166-2:ID;Asia;South-eastern Asia;;142.0;35.0;;#17547E
+Iran, Islamic Republic of;IR;IRN;364;ISO 3166-2:IR;Asia;Southern Asia;;142.0;34.0;;#175682
+Iraq;IQ;IRQ;368;ISO 3166-2:IQ;Asia;Western Asia;;142.0;145.0;;#185986
+Ireland;IE;IRL;372;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;#F87604
+Isle of Man;IM;IMN;833;ISO 3166-2:IM;Europe;Northern Europe;;150.0;154.0;;#FC7905
+Israel;IL;ISR;376;ISO 3166-2:IL;Asia;Western Asia;;142.0;145.0;;#195C8B
+Italy;IT;ITA;380;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;#FC7B0A
+Jamaica;JM;JAM;388;ISO 3166-2:JM;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#9C72C2
+Japan;JP;JPN;392;ISO 3166-2:JP;Asia;Eastern Asia;;142.0;30.0;;#195F8F
+Jersey;JE;JEY;832;ISO 3166-2:JE;Europe;Northern Europe;;150.0;154.0;;#FC7E0F
+Jordan;JO;JOR;400;ISO 3166-2:JO;Asia;Western Asia;;142.0;145.0;;#1A6293
+Kazakhstan;KZ;KAZ;398;ISO 3166-2:KZ;Asia;Central Asia;;142.0;143.0;;#1B6598
+Kenya;KE;KEN;404;ISO 3166-2:KE;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#299629
+Kiribati;KI;KIR;296;ISO 3166-2:KI;Oceania;Micronesia;;9.0;57.0;;#AC2121
+Korea, Democratic People's Republic of;KP;PRK;408;ISO 3166-2:KP;Asia;Eastern Asia;;142.0;30.0;;#1B679C
+Korea, Republic of;KR;KOR;410;ISO 3166-2:KR;Asia;Eastern Asia;;142.0;30.0;;#1C6AA0
+Kuwait;KW;KWT;414;ISO 3166-2:KW;Asia;Western Asia;;142.0;145.0;;#1D6DA5
+Kyrgyzstan;KG;KGZ;417;ISO 3166-2:KG;Asia;Central Asia;;142.0;143.0;;#1D70A9
+Lao People's Democratic Republic;LA;LAO;418;ISO 3166-2:LA;Asia;South-eastern Asia;;142.0;35.0;;#1E73AD
+Latvia;LV;LVA;428;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;#FC8113
+Lebanon;LB;LBN;422;ISO 3166-2:LB;Asia;Western Asia;;142.0;145.0;;#1F76B2
+Lesotho;LS;LSO;426;ISO 3166-2:LS;Africa;Sub-Saharan Africa;Southern Africa;2.0;202.0;18.0;#2A992A
+Liberia;LR;LBR;430;ISO 3166-2:LR;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#2B9D2B
+Libya;LY;LBY;434;ISO 3166-2:LY;Africa;Northern Africa;;2.0;15.0;;#2CA02C
+Liechtenstein;LI;LIE;438;ISO 3166-2:LI;Europe;Western Europe;;150.0;155.0;;#FC8318
+Lithuania;LT;LTU;440;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;#FC861D
+Luxembourg;LU;LUX;442;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;#FD8822
+Macao;MO;MAC;446;ISO 3166-2:MO;Asia;Eastern Asia;;142.0;30.0;;#1F78B6
+Madagascar;MG;MDG;450;ISO 3166-2:MG;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#2DA32D
+Malawi;MW;MWI;454;ISO 3166-2:MW;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#2EA72E
+Malaysia;MY;MYS;458;ISO 3166-2:MY;Asia;South-eastern Asia;;142.0;35.0;;#207BBB
+Maldives;MV;MDV;462;ISO 3166-2:MV;Asia;Southern Asia;;142.0;34.0;;#217EBF
+Mali;ML;MLI;466;ISO 3166-2:ML;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#2EAA2E
+Malta;MT;MLT;470;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;#FD8B27
+Marshall Islands;MH;MHL;584;ISO 3166-2:MH;Oceania;Micronesia;;9.0;57.0;;#B42223
+Martinique;MQ;MTQ;474;ISO 3166-2:MQ;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#9E75C3
+Mauritania;MR;MRT;478;ISO 3166-2:MR;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#2FAE2F
+Mauritius;MU;MUS;480;ISO 3166-2:MU;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#30B130
+Mayotte;YT;MYT;175;ISO 3166-2:YT;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#31B531
+Mexico;MX;MEX;484;ISO 3166-2:MX;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#A078C5
+Micronesia, Federated States of;FM;FSM;583;ISO 3166-2:FM;Oceania;Micronesia;;9.0;57.0;;#BB2324
+Moldova, Republic of;MD;MDA;498;ISO 3166-2:MD;Europe;Eastern Europe;;150.0;151.0;;#FD8E2C
+Monaco;MC;MCO;492;ISO 3166-2:MC;Europe;Western Europe;;150.0;155.0;;#FD9030
+Mongolia;MN;MNG;496;ISO 3166-2:MN;Asia;Eastern Asia;;142.0;30.0;;#2181C3
+Montenegro;ME;MNE;499;ISO 3166-2:ME;Europe;Southern Europe;;150.0;39.0;;#FD9335
+Montserrat;MS;MSR;500;ISO 3166-2:MS;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#A27BC6
+Morocco;MA;MAR;504;ISO 3166-2:MA;Africa;Northern Africa;;2.0;15.0;;#32B832
+Mozambique;MZ;MOZ;508;ISO 3166-2:MZ;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#33BB33
+Myanmar;MM;MMR;104;ISO 3166-2:MM;Asia;South-eastern Asia;;142.0;35.0;;#2284C8
+Namibia;;NAM;516;ISO 3166-2:NA;Africa;Sub-Saharan Africa;Southern Africa;2.0;202.0;18.0;#33BF33
+Nauru;NR;NRU;520;ISO 3166-2:NR;Oceania;Micronesia;;9.0;57.0;;#C32425
+Nepal;NP;NPL;524;ISO 3166-2:NP;Asia;Southern Asia;;142.0;34.0;;#2287CC
+Netherlands, Kingdom of the;NL;NLD;528;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;#FD963A
+New Caledonia;NC;NCL;540;ISO 3166-2:NC;Oceania;Melanesia;;9.0;54.0;;#CB2526
+New Zealand;NZ;NZL;554;ISO 3166-2:NZ;Oceania;Australia and New Zealand;;9.0;53.0;;#D22627
+Nicaragua;NI;NIC;558;ISO 3166-2:NI;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#A47EC8
+Niger;NE;NER;562;ISO 3166-2:NE;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#34C234
+Nigeria;NG;NGA;566;ISO 3166-2:NG;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#35C635
+Niue;NU;NIU;570;ISO 3166-2:NU;Oceania;Polynesia;;9.0;61.0;;#D8292A
+Norfolk Island;NF;NFK;574;ISO 3166-2:NF;Oceania;Australia and New Zealand;;9.0;53.0;;#DA3031
+North Macedonia;MK;MKD;807;ISO 3166-2:MK;Europe;Southern Europe;;150.0;39.0;;#FD983F
+Northern Mariana Islands;MP;MNP;580;ISO 3166-2:MP;Oceania;Micronesia;;9.0;57.0;;#DB3839
+Norway;NO;NOR;578;ISO 3166-2:NO;Europe;Northern Europe;;150.0;154.0;;#FE9B44
+Oman;OM;OMN;512;ISO 3166-2:OM;Asia;Western Asia;;142.0;145.0;;#2389D1
+Pakistan;PK;PAK;586;ISO 3166-2:PK;Asia;Southern Asia;;142.0;34.0;;#248CD5
+Palau;PW;PLW;585;ISO 3166-2:PW;Oceania;Micronesia;;9.0;57.0;;#DD3F40
+Palestine, State of;PS;PSE;275;ISO 3166-2:PS;Asia;Western Asia;;142.0;145.0;;#248FD9
+Panama;PA;PAN;591;ISO 3166-2:PA;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;#A781C9
+Papua New Guinea;PG;PNG;598;ISO 3166-2:PG;Oceania;Melanesia;;9.0;54.0;;#DE4647
+Paraguay;PY;PRY;600;ISO 3166-2:PY;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#A984CB
+Peru;PE;PER;604;ISO 3166-2:PE;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#AB87CC
+Philippines;PH;PHL;608;ISO 3166-2:PH;Asia;South-eastern Asia;;142.0;35.0;;#2792DB
+Pitcairn;PN;PCN;612;ISO 3166-2:PN;Oceania;Polynesia;;9.0;61.0;;#E04E4E
+Poland;PL;POL;616;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;#FE9E49
+Portugal;PT;PRT;620;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;#FEA04E
+Puerto Rico;PR;PRI;630;ISO 3166-2:PR;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#AD8ACD
+Qatar;QA;QAT;634;ISO 3166-2:QA;Asia;Western Asia;;142.0;145.0;;#2B94DC
+Réunion;RE;REU;638;ISO 3166-2:RE;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#36C936
+Romania;RO;ROU;642;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;#FEA353
+Russian Federation;RU;RUS;643;ISO 3166-2:RU;Europe;Eastern Europe;;150.0;151.0;;#FEA657
+Rwanda;RW;RWA;646;ISO 3166-2:RW;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#39CA39
+Saint Barthélemy;BL;BLM;652;ISO 3166-2:BL;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#AF8DCF
+Saint Helena, Ascension and Tristan da Cunha;SH;SHN;654;ISO 3166-2:SH;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#3CCB3C
+Saint Kitts and Nevis;KN;KNA;659;ISO 3166-2:KN;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#B290D0
+Saint Lucia;LC;LCA;662;ISO 3166-2:LC;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#B493D2
+Saint Martin (French part);MF;MAF;663;ISO 3166-2:MF;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#B696D3
+Saint Pierre and Miquelon;PM;SPM;666;ISO 3166-2:PM;Americas;Northern America;;19.0;21.0;;#B899D4
+Saint Vincent and the Grenadines;VC;VCT;670;ISO 3166-2:VC;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#BA9DD6
+Samoa;WS;WSM;882;ISO 3166-2:WS;Oceania;Polynesia;;9.0;61.0;;#E15556
+San Marino;SM;SMR;674;ISO 3166-2:SM;Europe;Southern Europe;;150.0;39.0;;#FEA85C
+Sao Tome and Principe;ST;STP;678;ISO 3166-2:ST;Africa;Sub-Saharan Africa;Middle Africa;2.0;202.0;17.0;#3FCC3F
+Saudi Arabia;SA;SAU;682;ISO 3166-2:SA;Asia;Western Asia;;142.0;145.0;;#3096DD
+Senegal;SN;SEN;686;ISO 3166-2:SN;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#43CD43
+Serbia;RS;SRB;688;ISO 3166-2:RS;Europe;Southern Europe;;150.0;39.0;;#FEAB61
+Seychelles;SC;SYC;690;ISO 3166-2:SC;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#46CE46
+Sierra Leone;SL;SLE;694;ISO 3166-2:SL;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#49CF49
+Singapore;SG;SGP;702;ISO 3166-2:SG;Asia;South-eastern Asia;;142.0;35.0;;#3498DE
+Sint Maarten (Dutch part);SX;SXM;534;ISO 3166-2:SX;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#BDA0D7
+Slovakia;SK;SVK;703;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;#FEAE66
+Slovenia;SI;SVN;705;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;#FEB06B
+Solomon Islands;SB;SLB;90;ISO 3166-2:SB;Oceania;Melanesia;;9.0;54.0;;#E35C5D
+Somalia;SO;SOM;706;ISO 3166-2:SO;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#4DD04D
+South Africa;ZA;ZAF;710;ISO 3166-2:ZA;Africa;Sub-Saharan Africa;Southern Africa;2.0;202.0;18.0;#50D150
+South Georgia and the South Sandwich Islands;GS;SGS;239;ISO 3166-2:GS;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#BFA3D9
+South Sudan;SS;SSD;728;ISO 3166-2:SS;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#53D253
+Spain;ES;ESP;724;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;#FFB370
+Sri Lanka;LK;LKA;144;ISO 3166-2:LK;Asia;Southern Asia;;142.0;34.0;;#389ADF
+Sudan;SD;SDN;729;ISO 3166-2:SD;Africa;Northern Africa;;2.0;15.0;;#56D356
+Suriname;SR;SUR;740;ISO 3166-2:SR;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#C1A6DA
+Svalbard and Jan Mayen;SJ;SJM;744;ISO 3166-2:SJ;Europe;Northern Europe;;150.0;154.0;;#FFB575
+Sweden;SE;SWE;752;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;#FFB87A
+Switzerland;CH;CHE;756;ISO 3166-2:CH;Europe;Western Europe;;150.0;155.0;;#FFBB7F
+Syrian Arab Republic;SY;SYR;760;ISO 3166-2:SY;Asia;Western Asia;;142.0;145.0;;#3C9DDF
+Taiwan, Province of China;TW;TWN;158;ISO 3166-2:TW;Asia;Eastern Asia;;;;;#409FE0
+Tajikistan;TJ;TJK;762;ISO 3166-2:TJ;Asia;Central Asia;;142.0;143.0;;#45A1E1
+Tanzania, United Republic of;TZ;TZA;834;ISO 3166-2:TZ;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#5AD45A
+Thailand;TH;THA;764;ISO 3166-2:TH;Asia;South-eastern Asia;;142.0;35.0;;#49A3E2
+Timor-Leste;TL;TLS;626;ISO 3166-2:TL;Asia;South-eastern Asia;;142.0;35.0;;#4DA5E3
+Togo;TG;TGO;768;ISO 3166-2:TG;Africa;Sub-Saharan Africa;Western Africa;2.0;202.0;11.0;#5DD55D
+Tokelau;TK;TKL;772;ISO 3166-2:TK;Oceania;Polynesia;;9.0;61.0;;#E46464
+Tonga;TO;TON;776;ISO 3166-2:TO;Oceania;Polynesia;;9.0;61.0;;#E66B6C
+Trinidad and Tobago;TT;TTO;780;ISO 3166-2:TT;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#C3A9DB
+Tunisia;TN;TUN;788;ISO 3166-2:TN;Africa;Northern Africa;;2.0;15.0;;#60D660
+Türkiye;TR;TUR;792;ISO 3166-2:TR;Asia;Western Asia;;142.0;145.0;;#51A7E3
+Turkmenistan;TM;TKM;795;ISO 3166-2:TM;Asia;Central Asia;;142.0;143.0;;#55AAE4
+Turks and Caicos Islands;TC;TCA;796;ISO 3166-2:TC;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#C5ACDD
+Tuvalu;TV;TUV;798;ISO 3166-2:TV;Oceania;Polynesia;;9.0;61.0;;#E77273
+Uganda;UG;UGA;800;ISO 3166-2:UG;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#64D764
+Ukraine;UA;UKR;804;ISO 3166-2:UA;Europe;Eastern Europe;;150.0;151.0;;#FFBD84
+United Arab Emirates;AE;ARE;784;ISO 3166-2:AE;Asia;Western Asia;;142.0;145.0;;#5AACE5
+United Kingdom of Great Britain and Northern Ireland;GB;GBR;826;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;#FFC089
+United States of America;US;USA;840;ISO 3166-2:US;Americas;Northern America;;19.0;21.0;;#C8AFDE
+United States Minor Outlying Islands;UM;UMI;581;ISO 3166-2:UM;Oceania;Micronesia;;9.0;57.0;;#E97A7A
+Uruguay;UY;URY;858;ISO 3166-2:UY;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#CAB2DF
+Uzbekistan;UZ;UZB;860;ISO 3166-2:UZ;Asia;Central Asia;;142.0;143.0;;#5EAEE6
+Vanuatu;VU;VUT;548;ISO 3166-2:VU;Oceania;Melanesia;;9.0;54.0;;#EA8182
+Venezuela, Bolivarian Republic of;VE;VEN;862;ISO 3166-2:VE;Americas;Latin America and the Caribbean;South America;19.0;419.0;5.0;#CCB5E1
+Viet Nam;VN;VNM;704;ISO 3166-2:VN;Asia;South-eastern Asia;;142.0;35.0;;#62B0E6
+Virgin Islands (British);VG;VGB;92;ISO 3166-2:VG;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#CEB9E2
+Virgin Islands (U.S.);VI;VIR;850;ISO 3166-2:VI;Americas;Latin America and the Caribbean;Caribbean;19.0;419.0;29.0;#D0BCE3
+Wallis and Futuna;WF;WLF;876;ISO 3166-2:WF;Oceania;Polynesia;;9.0;61.0;;#EB8889
+Western Sahara;EH;ESH;732;ISO 3166-2:EH;Africa;Northern Africa;;2.0;15.0;;#67D867
+Yemen;YE;YEM;887;ISO 3166-2:YE;Asia;Western Asia;;142.0;145.0;;#66B2E7
+Zambia;ZM;ZMB;894;ISO 3166-2:ZM;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#6AD96A
+Zimbabwe;ZW;ZWE;716;ISO 3166-2:ZW;Africa;Sub-Saharan Africa;Eastern Africa;2.0;202.0;14.0;#6DDA6D
